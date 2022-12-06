@@ -6,6 +6,6 @@ run the following commands on your terminal:
 yarn
 yarn add axios
 yarn add react react-dom mobx styled-components core-js
-npm run dev
+yarn dev
 ```
 
