@@ -2,7 +2,7 @@ import axios from "axios";
 
 function PingPongPage(props) {
   const { data } = props;
-  const response = data.message;
+  const response = data.content;
   
   //JSX
   return <h1>{response}</h1>;

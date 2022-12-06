@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
 }
 
 code {
@@ -14,6 +15,7 @@ code {
 
 .App {
   text-align: center;
+
 }
 
 .App-logo {
@@ -35,7 +37,14 @@ code {
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color:  #282c34;
+
+
+
 }
+
+
+
+
 
 .App-link {
   color: #61dafb;
