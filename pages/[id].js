@@ -11,7 +11,7 @@ function PingPongPage(props) {
 export default PingPongPage;
 
 export async function getServerSideProps(context) {
-  const res = await axios.get("https://ping-pong-api.vercel.app/api");
+  const res = await axios.get("http://localhost:3000/api");
   const data = await res.data;
 
   const url = context.params.id;
