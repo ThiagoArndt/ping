@@ -1,3 +1,6 @@
+What's this project about
+A simple project of an APi that sends ping and return pong
+
 
 How to run:
 
